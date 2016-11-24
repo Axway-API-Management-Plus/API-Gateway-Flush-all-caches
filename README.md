@@ -12,6 +12,7 @@ This artefact was successfully tested for the following versions:
 ## Install
 
 Creation of Cache Flush Policy :
+
 ![alt text][Screenshot1]
 [Screenshot1]: https://github.com/Axway-API-Management/API-Gateway-Flush-all-caches/blob/master/Screenshot1.png  "Screenshot1"   
 
