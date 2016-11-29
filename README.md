@@ -14,7 +14,7 @@ This artefact was successfully tested for the following versions:
 Creation of Cache Flush Policy :
 
 ![alt text][Screenshot1]
-[Screenshot1]: https://github.com/Axway-API-Management/API-Gateway-Flush-all-caches/Readme/blob/master/Screenshot1.png  "Screenshot1"   
+[Screenshot1]: https://github.com/Axway-API-Management/API-Gateway-Flush-all-caches/blob/master/Readme/Screenshot1.png  "Screenshot1"   
 
 
 ## Usage
