@@ -6,7 +6,7 @@ This Java script is used to flush a specific cache or all caches
 
 ## API Management Version Compatibilty
 This artefact was successfully tested for the following versions:
-- To be completed
+- 7.5.1
 
 
 ## Install
@@ -14,7 +14,7 @@ This artefact was successfully tested for the following versions:
 Creation of Cache Flush Policy :
 
 ![alt text][Screenshot1]
-[Screenshot1]: https://github.com/Axway-API-Management/API-Gateway-Flush-all-caches/blob/master/Screenshot1.png  "Screenshot1"   
+[Screenshot1]: https://github.com/Axway-API-Management/API-Gateway-Flush-all-caches/Readme/blob/master/Screenshot1.png  "Screenshot1"   
 
 
 ## Usage
@@ -29,9 +29,7 @@ Some remarks about the policy :
 
 ## Bug and Caveats
 
-```
-To be completed
-```
+Nothing identified
 
 ## Contributing
 
