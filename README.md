@@ -13,8 +13,9 @@ This artefact was successfully tested for the following versions:
 
 Creation of Cache Flush Policy :
 
-![alt text][Screenshot1]
-[Screenshot1]: https://github.com/Axway-API-Management-Plus/API-Gateway-Flush-all-caches/blob/master/Readme/Screenshot1.png  "Screenshot1"   
+![alt text][Screenshot1] 
+
+[Screenshot1]: https://github.com/Axway-API-Management-Plus/API-Gateway-Flush-all-caches/blob/master/Readme/Screenshot1.png  "Screenshot1" 
 
 
 ## Usage
@@ -33,7 +34,7 @@ Nothing identified
 
 ## Contributing
 
-Please read [Contributing.md] (https://github.com/Axway-API-Management-Plus/Common/blob/master/Contributing.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [Contributing.md](https://github.com/Axway-API-Management-Plus/Common/blob/master/Contributing.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Team
 
@@ -43,5 +44,5 @@ Please read [Contributing.md] (https://github.com/Axway-API-Management-Plus/Comm
 
 
 ## License
-Apache License 2.0 (http://www.apache.org/licenses/LICENSE-2.0)
+[Apache License 2.0](/LICENSE)
 
