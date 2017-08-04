@@ -43,5 +43,5 @@ Please read [Contributing.md] (https://github.com/Axway-API-Management/Common/bl
 
 
 ## License
-Apache License 2.0 (refer to document [license] (/LICENSE))
+Apache License 2.0 (http://www.apache.org/licenses/LICENSE-2.0)
 
